@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bumper
+  - Enemy
+  - PickUp
+  - Barrier
+  - Granade
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bumper
+  - 
+  - PickUp
+  - Enemy
+  - Player
+  - EnemyBullet
+  - PlayerBullet
+  - Gun
+  - Plants
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BumperBack
+    uniqueID: 3321180189
+    locked: 0
+  - name: Enemy
+    uniqueID: 3976391809
+    locked: 0
+  - name: PickUp
+    uniqueID: 3819388945
+    locked: 0
+  - name: Player
+    uniqueID: 1622516485
+    locked: 0
+  - name: FrontSprite
+    uniqueID: 1288323503
+    locked: 0
+  - name: Bumper
+    uniqueID: 3524757421
+    locked: 0
+  - name: Gun
+    uniqueID: 2150354169
+    locked: 0
+  - name: Plants
+    uniqueID: 3902345673
+    locked: 0
